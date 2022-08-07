@@ -6,7 +6,7 @@ Using data from NYC Citi Bike we were able to analyze data to propose a new bike
 
 ## Results
 
-[Proposal Story](https://public.tableau.com/views/NYCBikeSharingStory/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Proposal Story](https://public.tableau.com/views/NYCBikeSharingStory/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![chart](Resources/1.PNG)
 
